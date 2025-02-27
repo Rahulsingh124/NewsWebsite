@@ -1,0 +1,10 @@
+<div class="container">
+<div *ngIf="loading" class="loading">
+</div>
+<div *ngIf="!loading && news.length === 0" class="no-news">
+  <p>No news found. Try again later.</p>
+</div>
+<div class="news-container" *ngIf="!loading && news.length > 0">
+  <app-news-card *ngFor="let article of news" [article]="article"></app-news-card>
+</div>
+</div>

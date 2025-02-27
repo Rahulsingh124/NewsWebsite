@@ -1,0 +1,39 @@
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 0px 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    
+    overflow-y: hidden;
+    border-radius: 2px;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+
+  @media (max-width: 768px) {
+    .footer {
+      padding: 8px 15px;
+      font-size: 13px;
+    }
+    
+    .brand {
+      font-size: 1.3rem;
+    }
+  }
+  

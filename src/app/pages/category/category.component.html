@@ -1,0 +1,7 @@
+<div class="container mt-4">
+  <h2 *ngIf="category">{{ category.toUpperCase() }} News</h2>
+  <div *ngIf="loading">Loading...</div>
+  <div class="row">
+    <app-news-card *ngFor="let article of news; trackBy: trackByFn" [article]="article"></app-news-card>
+  </div>
+</div>

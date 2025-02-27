@@ -1,0 +1,15 @@
+<nav class="navbar">
+  <a routerLink="/category/general" class="brand">NewsApp</a>
+
+  <!-- Mobile Menu Toggle Button -->
+  <button class="menu-toggle" (click)="toggleMenu()">
+    {{ menuOpen ? '✖' : '☰' }}
+  </button>
+
+  <!-- Navigation Links (Slide-in for Mobile, Flex for Desktop) -->
+  <div class="nav-links" [class.show]="menuOpen">
+    <button (click)="navigateToCategory('general')">Home</button>
+    <button (click)="navigateToCategory('sports')">Sports</button>
+    <button (click)="navigateToCategory('health')">Health</button>
+  </div>
+</nav>

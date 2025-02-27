@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+    nav {
+      flex-direction: column;
+    }
+  
+    .news-grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .news-card {
+      margin: 10px;
+    }
+  }
+  

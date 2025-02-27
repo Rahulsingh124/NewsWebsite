@@ -1,0 +1,7 @@
+<app-navbar (categorySelected)="onCategoryChange($event)"></app-navbar> 
+<app-filters (categorySelected)="onCategoryChange($event)"></app-filters>
+<app-home [selectedCategory]="selectedCategory"></app-home>
+<div class="main-container">
+  <router-outlet></router-outlet>
+</div> 
+<app-footer></app-footer>
