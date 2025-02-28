@@ -40,6 +40,7 @@ npm install -g @angular/cli
 ```
 ## 1. Clone the repository
 ```bash
+https://github.com/Rahulsingh124/NewsWebsite.git
 ```
 ## 2.Install dependencies
 ```bash
@@ -55,7 +56,7 @@ Once the server is running, open your browser and navigate to `http://localhost:
 ## Deployed Application(Live)
 
 ```bash
-ng generate component component-name
+https://news-website-git-main-rahul-singhs-projects-3104c2de.vercel.app/
 ```
 
 
