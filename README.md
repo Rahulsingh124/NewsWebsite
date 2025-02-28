@@ -63,7 +63,7 @@ https://news-website-git-main-rahul-singhs-projects-3104c2de.vercel.app/
 ![image alt](https://github.com/Rahulsingh124/NewsWebsite/blob/f07bf0a9ef5a575df5730f9ffaf5d15af4014941/Screenshot%20(612).png)
 
 ## 2
-![image alt](https://github.com/Rahulsingh124/NewsWebsite/blob/f07bf0a9ef5a575df5730f9ffaf5d15af4014941/Screenshot%20(612).png)
+![image alt](https://github.com/Rahulsingh124/NewsWebsite/blob/f2a0132fef2dd780cfd4ee4cfb24a1af71d56d97/Screenshot%20(613).png)
 
 ## 3
 ![image alt](https://github.com/Rahulsingh124/NewsWebsite/blob/f07bf0a9ef5a575df5730f9ffaf5d15af4014941/Screenshot%20(612).png)
