@@ -1,1 +1,1 @@
-**photo**
+![Homepage Screenshot](screenshots/homepage.png)
